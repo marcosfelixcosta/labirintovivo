@@ -5,13 +5,7 @@ using UnityEngine;
 public class ScriptGizmo : MonoBehaviour {
 
     /*
-     * Localização por GPS -- APP
-     * Ativado, ele faz uma vistoria eme suas preferencias
-     * e monitora suas atividades indicando as opções que você selecionar 
-     * ou busca em uma base de dados para encontrar os seus programas preferidos 
-     * em tempo real. Verifica e monitora suas escolhas.
-     * 
-     * -- Verificar se tem app nessa área
+ 
      * 
      * 
 
